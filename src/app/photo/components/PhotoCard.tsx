@@ -38,7 +38,6 @@ const PhotoCard = (photo: PhotoProps) => {
       }
       .photo::before,
       .photo > div {
-        /* grid-area: 1 / 1 / 2 / 2; */
         grid-area: 4 / 4 / 5 / 5;
       }
       `}</style>
